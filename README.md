@@ -1,4 +1,4 @@
-# 🧾 TS Petrol Pump Payment - QR Code Generator & Scanner
+# 🧾 QR Code Generator & Scanner
 
 A Django-based web application for generating and scanning secure QR codes tied to 11-digit mobile numbers. Ideal for payment systems or identity verification at petrol pumps or similar use cases.
 
