@@ -70,4 +70,4 @@ A Django-based web application for generating and scanning secure QR codes tied 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername
+git clone https://github.com/tayyab-balti/qrcodegenerator.git
