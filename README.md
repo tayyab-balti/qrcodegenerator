@@ -17,19 +17,19 @@ A Django-based web application for generating and scanning secure QR codes tied 
 
 ## 📸 Screenshots
 
-| QR Code Generator |
+### 🔳 QR Code Generator
 
-![Generate](https://github.com/user-attachments/assets/3e86f81b-8d3d-4306-8011-8ec6677a343d)
+| Generate | Output | General Image |
+|----------|--------|---------------|
+| ![Generate](https://github.com/user-attachments/assets/3e86f81b-8d3d-4306-8011-8ec6677a343d) | ![Generate-Output](https://github.com/user-attachments/assets/af3857eb-5260-4d13-aed9-e9c8e694502c) | ![General-Image](https://github.com/user-attachments/assets/74c77de8-ab88-4a17-9e03-2bb5da459efb) |
 
-![Generate-Output](https://github.com/user-attachments/assets/af3857eb-5260-4d13-aed9-e9c8e694502c)
 
-![General-Image](https://github.com/user-attachments/assets/74c77de8-ab88-4a17-9e03-2bb5da459efb)
+### 🔳 QR Code Scanner
 
-| QR Code Scanner |
+| Scanner | Output |
+|---------|--------|
+| ![Scan](https://github.com/user-attachments/assets/75296f55-535e-49f7-bee3-9a4873590024) | ![Scan-Output](https://github.com/user-attachments/assets/886679d3-ba3c-426c-b0ef-c958167d1079) |
 
-![Scan](https://github.com/user-attachments/assets/75296f55-535e-49f7-bee3-9a4873590024)
-
-![Scan-Output](https://github.com/user-attachments/assets/886679d3-ba3c-426c-b0ef-c958167d1079)
 
 ---
 
